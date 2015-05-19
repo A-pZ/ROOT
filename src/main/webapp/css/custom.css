@@ -1,0 +1,23 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background-color: #F5FDEA;
+}
+
+.field-error {
+	color : #300;
+	background-color: #FDD;
+}
+
+.navbar-root {
+	background-color: #FFF;
+	background-image: linear-gradient(to bottom,#6BC39B 0,#D9EDD9 100%);
+}
+
+.navbar-root a {
+	color: #333;
+}
+
+blockquote {
+	border-left: 5px solid #4b6;
+}
